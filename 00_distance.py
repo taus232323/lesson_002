@@ -36,3 +36,5 @@ distances['Paris']['Moscow'] = moscow_paris
 
 for locations in distances.items():
     print(locations)
+
+fasf
